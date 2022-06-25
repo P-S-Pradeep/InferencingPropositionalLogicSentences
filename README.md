@@ -96,7 +96,7 @@ wumpus_kb.tell(B32 | '<=>' | ((P33| P42)))
 wumpus_kb.tell(B34 | '<=>' | ((P33| P44)))
 wumpus_kb.clauses
 wumpus_kb.ask_if_true(~P41)
-~~~
+```
 ## OUTPUT
 ### Checking in algorithm:
 ![image](https://user-images.githubusercontent.com/75235427/175760165-f415ca3e-f54b-4116-8a12-3418ac78abc6.png)
